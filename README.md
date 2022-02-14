@@ -1,12 +1,10 @@
 # JBF2022_Funds
 
-Bootstrap implementation for the paper 
-
-###“On the Performance of Cryptocurrency Funds” by Bianchi and Babiak (2022) 
+Bootstrap implementation for the paper _**“On the Performance of Cryptocurrency Funds”**_ by Bianchi and Babiak (2022) 
 
 The folder contains:
 
-Main.m : the main file for data uploading, bootstrap selection and plot/table with the results.
+Main.m : the main Matlab file for data uploading, bootstrap selection and plot/table with the results.
 
 Functions:
 
@@ -23,4 +21,5 @@ To be implemented the bootstrap requires the installation of the Panel Data tool
 
 Link here: https://uk.mathworks.com/matlabcentral/fileexchange/51320-panel-data-toolbox-for-matlab
 
+Alternatively, you could use any other in-house panel fixed-effect estimator you have created. 
 
